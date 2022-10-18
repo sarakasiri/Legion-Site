@@ -1,0 +1,19 @@
+/* @import url("../../../app/styles/Font.css"); */
+
+.appBar{
+    display: flex;
+    position: relative;
+}
+
+.logo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%) ;
+    width: 30px;
+    align-items: center;
+}
+
+.menuItem{
+    padding-left: 200px;
+}

@@ -18,7 +18,7 @@ import UserComments from '../../components/userComments/UserComments';
 import Reservation from '../../components/reservation/Reservation';
 import Title from '../../components/title/Title';
 
-import corridor from '../../assets/images/scary-corridor.png';
+import corridor from '../../assets/images/corridor3.jpg';
 import mirage_cover from '../../assets/images/mirage_cover.png';
 import location from '../../assets/images/location.png';
 import ghost from '../../assets/svg/ghost.svg';
